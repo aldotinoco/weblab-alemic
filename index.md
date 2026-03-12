@@ -2,12 +2,12 @@
 title: About Medicolingo
 feature_text: |
   ## Medicolingo
-  Helping you understand, strengthen, and improve health care delivery
+  Helping you understand health care, chart your path in it, and improve its delivery
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This is a starting point for your work in areas of health care new to you."
 ---
 
-This is a starting point for your work in areas of health care new to you. We help you benefit from practical experiences gained by others who were once in your shoes.
+This is about your on-going journey in parts of the health care system that may be new to you. We help you describe where you fit now in such a complex system, match up with the practical experiences of others on a similar path, and find your place and purpose.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
