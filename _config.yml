@@ -135,7 +135,7 @@ navigation_header:
   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Credits: The template for this site named Alembic was created by David Darnes
+- title: Credits - The template for this site named Alembic was created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
