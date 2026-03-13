@@ -9,7 +9,7 @@ excerpt: "This is a starting point for your work in areas of health care new to 
 
 This is about your on-going journey into parts of our health care system that may be new to you. We help you determine how you fit now in such a complex system, match up with the practical experiences of others on a similar path, and find your place and purpose.
 
-{% include button.html text="Students & Trainees" icon="github" link="https://aldotinoco.github.io/weblab-alemic/" color="#0366d6" %} {% include button.html text="Health IT & Informatics Professionals" link="https://aldotinoco.github.io/weblab-alemic/" color="#f68140" %} {% include button.html text="Health IT Organizations" icon="twitter" link="https://aldotinoco.github.io/weblab-alemic/" color="#0d94e7" %} {% include button.html text="Collaborators ⚗️" link="https://aldotinoco.github.io/weblab-alemic/" %}
+{% include button.html text="Students & Trainees" link="https://aldotinoco.github.io/weblab-alemic/" color="#0366d6" %} {% include button.html text="Health IT & Informatics Professionals" link="https://aldotinoco.github.io/weblab-alemic/" color="#f68140" %} {% include button.html text="Health IT Organizations" link="https://aldotinoco.github.io/weblab-alemic/" color="#0d94e7" %} {% include button.html text="Collaborators" link="https://aldotinoco.github.io/weblab-alemic/" %} {% include button.html text="Consultants" link="https://aldotinoco.github.io/weblab-alemic/" %}
 
 ## Features
 
